@@ -1,0 +1,36 @@
+Процессор:
+	a)AMD Ryzen 5 2400G - 8`500
+	b)AMD Ryzen 5 5600 - 10`500
+Системная плата:
+	MSI B550M-A PRO - 7`700
+
+Оператива:
+	a)G.Skill Ripjaws V - 3`500
+	b)Kingston FURY Beast Black - 7`600
+Сетевая карта:
+	Realtek RTL8111H - 0
+Накопитель:
+	a)SSD M.2 накопитель Patriot P300 - 2`250
+	b)HDD Toshiba P300 - 8`500
+Видеокарта:
+	a) Графическое ядро Radeon Vega 11 - 0
+	b) MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC - 27`000
+Куллер:
+	PCCooler Paladin EX400S - 1`900
+Блок питания:
+	Accord ACC-450W-80BR - 3`500
+Корпус:
+	DEXP DC-101B - 2`000
+МФУ:
+	Pantum M6507 - 15`500
+ИБП:
+	DEXP CEE-E Pro 850VA - 5`000
+Сетевой фильтр:
+	DEXP Standard 530В - 450
+Монитор:
+	MSI PRO MP2412 - 10`000
+Клавиатура:
+	Logitech K120 - 1`550
+Мышь:
+	Defender Patch MS-759 - 150
+	
