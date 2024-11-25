@@ -1,0 +1,284 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 YaBrowser/24.10.0.0 Safari/537.36" version="24.9.0">
+  <diagram name="Страница — 1" id="BTh2yT5rVuGOa-2f6qy3">
+    <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yGjdRa84yaEKnkrbmSis-2" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="59" y="150" width="791" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-3" value="Системный блок компьютера&amp;nbsp;DEXP DC-101B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="256" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-4" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="180" width="750" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-5" value="Материнская плата&amp;nbsp;MSI B550M-A PRO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="332" y="180" width="256" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-6" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="340" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-7" value="Шина" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="324" y="350" width="256" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-8" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-9" value="Процессор&lt;div&gt;AMD Ryzen 5 5600 +&lt;br&gt;&lt;/div&gt;&lt;div&gt;Куллер PCCooler Paladin EX400S&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="59" y="250" width="244.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-10" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="579.75" y="430" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-11" value="Контроллер дисков" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="606.5" y="440" width="146.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-12" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="574.75" y="230" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-13" value="Контроллер клавиатуры" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="557" y="240" width="256" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-14" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="299" y="210" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-15" value="Оперативная память" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="303" y="210" width="256" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-18" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-19" value="Контроллер портов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="155" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-20" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="140" y="430" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-21" value="USB контроллер" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="174.75" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.125;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-6" target="yGjdRa84yaEKnkrbmSis-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="330" as="sourcePoint" />
+            <mxPoint x="570" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.484;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-6" target="yGjdRa84yaEKnkrbmSis-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="353" as="sourcePoint" />
+            <mxPoint x="196" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.854;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-6" target="yGjdRa84yaEKnkrbmSis-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0.174;entryY=0.96;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-20" target="yGjdRa84yaEKnkrbmSis-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="353" as="sourcePoint" />
+            <mxPoint x="196" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-6" target="yGjdRa84yaEKnkrbmSis-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="440" as="sourcePoint" />
+            <mxPoint x="210" y="397" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.85;entryY=0.98;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-10" target="yGjdRa84yaEKnkrbmSis-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691" y="353" as="sourcePoint" />
+            <mxPoint x="690" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-33" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="70" y="520" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-34" value="Видеокарта&lt;div&gt;MSI Geforce RTX 3050 VENTUS 2X XS WHITE OC&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="545" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-12" target="yGjdRa84yaEKnkrbmSis-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691" y="353" as="sourcePoint" />
+            <mxPoint x="690" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="870" y="230" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-42" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-56">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-43" value="Клавиатура&amp;nbsp;Logitech K120" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-56">
+          <mxGeometry x="58.129999999999995" y="10" width="103.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-57" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="690" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-44" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-57">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-45" value="Мышь&amp;nbsp;Defender Patch MS-759" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-57">
+          <mxGeometry x="30.217142857142854" y="10" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-59" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="313.75" y="535" width="156.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-35" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-59">
+          <mxGeometry width="156.25" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-36" value="Адаптер доп.устройств" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-59">
+          <mxGeometry x="21.92982456140351" y="10" width="112.39035087719299" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0.918;entryY=0.94;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-44" target="yGjdRa84yaEKnkrbmSis-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="440" as="sourcePoint" />
+            <mxPoint x="688" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-62" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="286" y="690" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-48" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-62">
+          <mxGeometry width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-49" value="МФУ&amp;nbsp;Pantum M6507" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-62">
+          <mxGeometry x="29.995714285714286" y="10" width="56.285714285714285" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-48" target="yGjdRa84yaEKnkrbmSis-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="680" as="sourcePoint" />
+            <mxPoint x="497" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-64" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="84.75" y="690" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-46" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-64">
+          <mxGeometry x="5" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-47" value="Монитор&lt;div&gt;MSI PRO MP2412&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-64">
+          <mxGeometry x="40" y="10" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-65" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-46" target="yGjdRa84yaEKnkrbmSis-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="780" as="sourcePoint" />
+            <mxPoint x="497" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="860" y="770" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-53" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-66">
+          <mxGeometry width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-54" value="ИБП&amp;nbsp;DEXP CEE-E Pro 850VA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-66">
+          <mxGeometry x="44.357142857142854" y="10" width="99.42857142857142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.034;entryY=1.02;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-33" target="yGjdRa84yaEKnkrbmSis-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="440" as="sourcePoint" />
+            <mxPoint x="242" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-74" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1070" y="750" width="146" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-74">
+          <mxGeometry x="33" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-72" value="" style="curved=1;endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.059;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" edge="1" parent="yGjdRa84yaEKnkrbmSis-74" source="yGjdRa84yaEKnkrbmSis-70" target="yGjdRa84yaEKnkrbmSis-70">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="48" y="70" as="sourcePoint" />
+            <mxPoint x="98" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="98" y="70" />
+              <mxPoint x="48" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-73" value="220 В" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-74">
+          <mxGeometry y="90" width="146" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-75" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-70" target="yGjdRa84yaEKnkrbmSis-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="820" as="sourcePoint" />
+            <mxPoint x="180" y="715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="613" y="770" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-50" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-76">
+          <mxGeometry x="37.18" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-51" value="Сетевой фильтр&amp;nbsp;DEXP Standard 530В" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-76">
+          <mxGeometry x="68.39738095238096" y="10" width="104.57380952380952" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-77" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-53" target="yGjdRa84yaEKnkrbmSis-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1083" y="880" as="sourcePoint" />
+            <mxPoint x="1017" y="885" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-78" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="600" width="122.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-79" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="653" y="670" width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-80" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-79">
+          <mxGeometry width="167" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-81" value="Блок питания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-79">
+          <mxGeometry x="37.17738095238095" y="10" width="104.57380952380952" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-82" value="Порты питания" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="687.677380952381" y="600" width="104.57380952380952" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0.433;entryY=1.033;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-80" target="yGjdRa84yaEKnkrbmSis-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="680" as="sourcePoint" />
+            <mxPoint x="500" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-84" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-50" target="yGjdRa84yaEKnkrbmSis-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="734" y="760" as="sourcePoint" />
+            <mxPoint x="743" y="641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="860" y="430" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-86" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-85">
+          <mxGeometry width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-87" value="HDD Toshiba P300" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yGjdRa84yaEKnkrbmSis-85">
+          <mxGeometry x="58.129999999999995" y="10" width="103.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-88" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-86" target="yGjdRa84yaEKnkrbmSis-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="680" as="sourcePoint" />
+            <mxPoint x="500" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-89" value="Kingston FURY Beast Black 16 ГБ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="240" width="191" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-90" value="&lt;div&gt;Kingston FURY Beast Black 16 ГБ&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="280" width="191" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="yGjdRa84yaEKnkrbmSis-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.34;entryY=0.94;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.104;exitY=0.02;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="yGjdRa84yaEKnkrbmSis-35" target="yGjdRa84yaEKnkrbmSis-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="700" as="sourcePoint" />
+            <mxPoint x="363" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
